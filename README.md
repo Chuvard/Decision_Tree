@@ -1,6 +1,6 @@
-# Decision_Tree
+# Decision_Trees
 
-### Project's Title: Decision_Tree
+### Project's Title: Decision_Trees
 
 
 ### Project Description (Problem Statement): 
@@ -35,9 +35,9 @@ Question: Can this data describe, which mushrooms can be sold safely?
 
 To successfully run this project you have to do the following steps:
 
-	Step 1. Run the "Decision_Tree" Jupyter Notebook file on your PC/Notebook.
+	Step 1. Run the "Decision_Trees" Jupyter Notebook file on your PC/Notebook.
 
-	Step 2. Import all required libraries and data frames from the Section "Importing modules".
+	Step 2. Import all required libraries and data frames from the Sections "Importing modules" and "Load data".
 
 	Step 3. Import the dataset. Run the cell of the "Dataset" Section for getting previously mentioned project goals due to Decision Tree model execution.
 
