@@ -24,8 +24,8 @@ Question: Can this data describe, which mushrooms can be sold safely?
         Exercise 2\
    4.3. Calculate information gain
         Exercise 3\
-   4.4. Get the best split
-        Exercise 4\
+   * 4.4. Get the best split
+        * Exercise 4
 5. Building the tree
 
 
