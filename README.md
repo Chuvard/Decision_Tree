@@ -16,7 +16,7 @@ Question: Can this data describe, which mushrooms can be sold safely?
 1. Importing modules
 2. Problem Statement
 3. Load data
-    3.1. One hot-encoded dataset\
+    3.1. One hot-encoded dataset
 4. Decision Tree Refresher\
    4.1. Calculate entropy\
         * Exercise 1\
