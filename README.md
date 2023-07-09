@@ -18,13 +18,13 @@ Question: Can this data describe, which mushrooms can be sold safely?
 3. Load data
     3.1. One hot-encoded dataset
 4. Decision Tree Refresher\
-   4.1. Calculate entropy\
+   4.1. Calculate entropy
         * Exercise 1\
    4.2. Split dataset\
         * Exercise 2\
-   4.3. Calculate information gain\
+   4.3. Calculate information gain
         * Exercise 3\
-    * 4.4. Get the best split
+   4.4. Get the best split
         * Exercise 4\
 5. Building the tree
 
